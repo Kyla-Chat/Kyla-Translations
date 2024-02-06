@@ -29,7 +29,7 @@ We are constantly working to expand our language offerings and invite contributo
 
 To use Kyla Chat, follow these steps:
 
-1. **Access Kyla Chat:** [Provide access details or link to the platform where Kyla Chat can be used.]
+1. **Access Kyla Chat:** [Kyla Chat](https://t.me/kylachatbot)
 2. **Select Language:** Choose your preferred language from the settings menu.
 3. **Start Chatting:** Enter your interests and start chatting with a partner anonymously.
 
